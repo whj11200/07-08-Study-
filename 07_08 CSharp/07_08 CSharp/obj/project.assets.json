@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YONSAI\\Documents\\C#\\07_08\\07_08 CSharp\\07_08 CSharp\\07_08 CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\YONSAI\\Documents\\07-08\\07_08 CSharp\\07_08 CSharp\\07_08 CSharp.csproj",
       "projectName": "07_08 CSharp",
-      "projectPath": "C:\\Users\\YONSAI\\Documents\\C#\\07_08\\07_08 CSharp\\07_08 CSharp\\07_08 CSharp.csproj",
+      "projectPath": "C:\\Users\\YONSAI\\Documents\\07-08\\07_08 CSharp\\07_08 CSharp\\07_08 CSharp.csproj",
       "packagesPath": "C:\\Users\\YONSAI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YONSAI\\Documents\\C#\\07_08\\07_08 CSharp\\07_08 CSharp\\obj\\",
+      "outputPath": "C:\\Users\\YONSAI\\Documents\\07-08\\07_08 CSharp\\07_08 CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\YONSAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
